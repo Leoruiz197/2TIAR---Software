@@ -9,7 +9,7 @@ def identificar_predicado(sujeito, sentenca):
  
  
 # Exemplo de uso
-sujeito = "Joao"
-sentenca = "Joao esta procurando o pé de feijao"
-predicado = identificar_predicado(sujeito, sentenca)
-print("O predicado é:", predicado)# comecem por aqui
+# sujeito = "Joao"
+# sentenca = "Joao esta procurando o pé de feijao"
+# predicado = identificar_predicado(sujeito, sentenca)
+# print("O predicado é:", predicado)# comecem por aqui
