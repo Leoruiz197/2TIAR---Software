@@ -73,48 +73,6 @@ def encontrar_sujeito(frase):
     else:
         print("Não foi possivel encontra o sujeito")
         
-# Testando a função com uma frase simples
-frase = "O cachorro correu pelo parque."
-sujeito = encontrar_sujeito(frase)
-
-
-# In[87]:
-
-
-frase = "Eu gosto de laranja"
-sujeito = encontrar_sujeito(frase)
-
-
-# In[88]:
-
-
-frase = "Eu cresci em Uberlandia"
-sujeito = encontrar_sujeito(frase)
-
-
-# In[89]:
-
-
-frase = "O Paulo gosta de vc"
-sujeito = encontrar_sujeito(frase)
-
-
-# In[90]:
-
-
-frase = "Ele melhorou muito isso"
-sujeito = encontrar_sujeito(frase)
-
-
-# In[91]:
-
-
-frase = "Aquele homem velho mora naquela casa"
-sujeito = encontrar_sujeito(frase)
-
-
-# In[11]:
-
 
 
 
